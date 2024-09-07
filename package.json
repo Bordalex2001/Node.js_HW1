@@ -1,0 +1,23 @@
+{
+  "name": "calculator_bordalex28",
+  "version": "1.0.0",
+  "description": "Node.js Calculator",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maths",
+    "calculator",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "Oleksii Bordiuzhevych",
+  "license": "ISC",
+  "dependencies": {
+    "calculator_bordalex28": "^1.0.0"
+  }
+}
